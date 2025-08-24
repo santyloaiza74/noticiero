@@ -32,5 +32,5 @@ Incluye carrusel de noticias destacadas, ticker de últimas noticias y cuadrícu
 Clona este repositorio y entra en el directorio:
 
 ```bash
-git clone https://github.com/tuusuario/noticiero-react.git
-cd noticiero-react
+git clone https://github.com/santyloaiza74/noticiero
+cd noticiero
