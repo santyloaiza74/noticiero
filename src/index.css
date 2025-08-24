@@ -1,0 +1,13 @@
+.ticker {
+  max-height: 120px;   /* Más alto */
+  overflow-y: auto;    /* Scroll vertical */
+}
+
+.ticker::-webkit-scrollbar {
+  width: 6px;
+}
+
+.ticker::-webkit-scrollbar-thumb {
+  background: #aaa;
+  border-radius: 10px;
+}
